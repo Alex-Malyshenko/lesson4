@@ -1,7 +1,7 @@
 package ru.geekbrains.lesson4.homework;
+public class Apple extends Fruit {
 
-public class Appe extends Fruit{
-    public Appe() {
+    public Apple() {
         super(1.0f);
     }
 }
